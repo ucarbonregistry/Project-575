@@ -1,6 +1,18 @@
 # Project-575
 0.33 MW Bundled Solar Power Project by FE LLC «Birinchi rezinotexnika zavodi»
 
+Country: Republic of Uzbekistan 
+
+District: Tashkent Region 
+
+Village: Angren siti, Gulbog МFY, Industrial Zone,  
+
+Code: 110200 
+
+Latitude: 40°58'21.9»N 
+
+Longitude: 70°02'40.8»E
+______________
 Scale of the project activity  
 Small Scale 
 
